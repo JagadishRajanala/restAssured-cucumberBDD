@@ -23,4 +23,4 @@ Once the execution is complete, html reports are available under `target/cucumbe
 Please access `index.html` in browser to check passed/failed scenarios.
 
 ### Contributor
-Please reach out to `jagadish659@gmail.com`# serenity-bdd-cucumber-microservice
+Please reach out to `jagadish659@gmail.com`
