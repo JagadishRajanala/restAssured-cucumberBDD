@@ -4,7 +4,7 @@ Serenity Bdd cucumber framework is to validate the Rest services.
 
 ### Installation
 Check out the repository from below location,
-``bash
+``
 https://github.com/JagadishRajanala/serenity-bdd-cucumber-microservice.git
 ``
 
