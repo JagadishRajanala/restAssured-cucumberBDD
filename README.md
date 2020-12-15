@@ -4,7 +4,9 @@ Serenity Bdd cucumber framework is to validate the Rest services.
 
 ### Installation
 Check out the repository from below location,
-TODO
+``bash
+https://github.com/JagadishRajanala/serenity-bdd-cucumber-microservice.git
+``
 
 And mvn clean install to download all the dependencies
 
@@ -12,7 +14,7 @@ And mvn clean install to download all the dependencies
 Run the `RunnerTest.java` file to execute the tests.
 
 ```
-Note: Specify the `tags = {"@test"}` tag nae here to run specific set of tests.
+Note: Specify the `tags = {"@test"}` tag here to run specific set of tests.
 testMeAlone - tag to run single test
 All - tag to run all the tests
 ```
