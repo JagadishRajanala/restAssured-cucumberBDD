@@ -14,9 +14,10 @@ And mvn clean install to download all the dependencies
 Run the `RunnerTest.java` file to execute the tests.
 
 ```
-Note: Specify the `tags = {"@test"}` tag here to run specific set of tests.
-Positive/Negative - tag to run specific scenarios
-All - tag to run all the tests
+Note: Specify the tag here to run specific set of tests.
+@Positive - tag to run positive scenarios
+@Negative - tag to run positive scenarios
+@All - tag to run all the tests
 ```
 ### Reports
 Once the execution is complete, html reports are available under `target/cucumber_reports` location.
