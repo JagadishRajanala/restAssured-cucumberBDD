@@ -6,7 +6,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions(features = "src/test/resources",
-        tags = {"@testMeAlone"},
+        tags = {"@All"},
         plugin = {"pretty", "html:target/cucumber_reports"},
         glue = {"com.rajanala.frameworks.serenitybdd.stepDefinition"},
         monochrome = true,

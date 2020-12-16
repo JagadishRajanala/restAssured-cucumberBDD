@@ -15,7 +15,7 @@ Run the `RunnerTest.java` file to execute the tests.
 
 ```
 Note: Specify the `tags = {"@test"}` tag here to run specific set of tests.
-testMeAlone - tag to run single test
+Positive/Negative - tag to run specific scenarios
 All - tag to run all the tests
 ```
 ### Reports
