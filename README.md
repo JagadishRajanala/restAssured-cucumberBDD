@@ -1,11 +1,14 @@
-# serenity-bdd-framework
-Serenity Bdd cucumber framework is to validate the Rest services.
+# RestAssured-bdd-framework
+
+RestAssured Bdd cucumber framework is to validate the Rest services.
 
 
 ### Installation
 Check out the repository from below location,
+
 ``
-https://github.com/JagadishRajanala/serenity-bdd-cucumber-microservice.git
+https://github.com/JagadishRajanala/restAssured-TestFramework.git
+
 ``
 
 And mvn clean install to download all the dependencies
@@ -13,11 +16,6 @@ And mvn clean install to download all the dependencies
 ### Test
 Run the `RunnerTest.java` file to execute the tests.
 
-```
-Note: Specify the tag here to run specific set of tests.
-@Positive - tag to run positive scenarios
-@Negative - tag to run positive scenarios
-@All - tag to run all the tests
 ```
 ### Reports
 Once the execution is complete, html reports are available under `target/cucumber_reports` location.
